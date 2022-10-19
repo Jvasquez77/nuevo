@@ -14,7 +14,7 @@ using namespace std;
     cout << "bienvenido al banco mas arrecho\nque quieres hacer\n\n";
     cout << "opcion 1: ver saldo\nopcion 2: enviar fondos\nopcion 3: recibir fondos\nopcion 4 : salir\n\n";
 
-   // ver no quiero saber
+   // ver no quiero saber y ahora en rama experimental
 
 
     for (int i = 0; n==0; i++)
