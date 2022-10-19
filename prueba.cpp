@@ -19,7 +19,7 @@ using namespace std;
 
     for (int i = 0; n==0; i++)
     {
-        cout<<"\n\nintento #"<<i<<"\n\n";
+        cout<<"\n\nmovimiento #"<<i<<"\n\n";
     cout << "\nopcion: ";
     cin >> opcion;
         switch (opcion)
